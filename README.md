@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ramazan ÖZKAN
 
-A **full-stack web developer** passionate about building scalable and modern web applications.
+A **full-stack web developer**
 
 ---
 
