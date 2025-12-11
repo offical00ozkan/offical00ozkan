@@ -30,14 +30,3 @@ A **full-stack web developer** passionate about building scalable and modern web
 - Full-stack web applications with **Next.js + Prisma**  
 - Advanced **TypeScript patterns** for scalable projects  
 
-### 👯 Looking to Collaborate On
-- Open-source projects with **Node.js, React.js, or full-stack stacks**  
-- Modern web apps with **frontend-backend integration**  
-
-### 🤔 Ask Me About
-- JavaScript / TypeScript best practices  
-- Next.js + Prisma setups  
-- Database design with MySQL  
-
-### ⚡ Fun Fact
-I love **optimizing code** and making web apps both **fast and secure**!
