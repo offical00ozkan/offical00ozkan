@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ramazan ÖZKAN
 
-A **full-stack web developer**
+**Full-Stack Web Developer**
 
 ---
 
