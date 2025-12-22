@@ -27,6 +27,6 @@
 ---
 
 ### 🔭 Currently Working On
-- Full-stack web applications with **Next.js + Prisma**  
+- Full-stack web applications
 - Advanced **TypeScript patterns** for scalable projects  
 
